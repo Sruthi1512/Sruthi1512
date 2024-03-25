@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sruthi1512
+- 👋 Hi, I’m @SruthiK
 - 👀 I’m interested in Business Analytics
 - 🌱 I’m currently learning Tableau
 - 💞️ I’m looking to collaborate on Reporting related projects
